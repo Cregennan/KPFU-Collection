@@ -10,7 +10,9 @@
 
 ### Практика Николаева
 [Текстовый анализатор](https://github.com/Cregennan/KFU-Text-Analyze)
+
 [Ханойские башни](https://github.com/Cregennan/KFU-Hanoi-Towers)
+
 [Морской ♂Boy♂](https://github.com/Cregennan/Sea-Battle)
 
 ### Практика Мубаракова
