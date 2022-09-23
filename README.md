@@ -18,7 +18,7 @@
 ### Практика Мубаракова
 [Крутой шаблоный проект шифратора](https://github.com/Cregennan/KPFU-Operation-System-Series-Boilerplate)
 
-(Скоро) Все шифраторы
+[КФУ: Задачи по криптографии, часть 1 :shield:](https://github.com/Cregennan/KPFU---Operation-Systems-Series)
 
 
 
