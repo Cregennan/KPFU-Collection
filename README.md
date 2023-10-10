@@ -4,6 +4,7 @@
 ###### Как же я их обожаю, вот они сверху вниз:
 ### Практика Андриановой
 [База данных медицинского центра](https://github.com/Cregennan/Medical-Database "База данных медицинского центра")
+[Компьютерное зрение](https://github.com/Cregennan/AAAComputerVision)
 
 ### Практика Долгова
 [Retrowave личная страница](https://github.com/Cregennan/kpfu-retrowave)
